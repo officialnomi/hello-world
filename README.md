@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+Nomi here, I'm a computer engineering student.
